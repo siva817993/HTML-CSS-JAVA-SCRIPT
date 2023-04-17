@@ -1,0 +1,17 @@
+body{
+    background-color:black;
+    color: red;
+    background-image:url(background.jpg);
+    background-size:100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+img{
+    width: 200px;
+    height: 200px;
+    align-items: center;
+    top: 10px;
+    left: 10px;
+    bottom: 10px;
+    border: 10px solid rgb(227, 227,231 );
+}

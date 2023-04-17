@@ -1,0 +1,43 @@
+h2{
+    color: cyan;
+    text-align:left;
+    padding: -100px;
+}
+nav ul li{
+    display: inline-block;
+    padding: 10px;
+}
+h3{
+    color: orange;
+}
+.love{
+    display: inline;
+}
+
+
+
+h1{
+    color:aqua;
+    text-align: center;
+
+}
+body{
+    background-color:black;
+    color: white;
+    background-image:url(background.jpg);
+    background-size:100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+li a{
+    color:blue;
+}
+img{
+    width: 200px;
+    height: 200px;
+    align-items: center;
+    top: 10px;
+    left: 10px;
+    bottom: 10px;
+    border: 10px solid rgb(227, 227,231 );
+}
